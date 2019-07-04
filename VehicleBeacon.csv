@@ -1,4 +1,4 @@
-country,operator_id,public_code,identifier_type,mac,name,
+country,operator_id,public_code,identifier_type,mac,name
 NL,NS,2010,BSSID,00:0E:8E:66:F6:AE,
 NL,NS,2011,BSSID,00:0E:8E:66:F6:BF,
 NL,NS,2013,BSSID,00:0E:8E:66:F6:C0,
