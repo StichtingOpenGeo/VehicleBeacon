@@ -1,4 +1,6 @@
 country,operator_id,public_code,identifier_type,mac,name,longitude,latitude
+NL,NS,ah,BSSID,00:08:30:BB:B3:62,KPN,,
+NL,NS,ah,BSSID,00:08:30:BB:CB:62,KPN,,
 NL,NS,asdsd,BSSID,00:14:A9:75:46:50,KPN,,
 NL,NS,dt,BSSID,6C:FA:89:05:6B:00,KPN,,
 NL,NS,dt,BSSID,6C:FA:89:90:6E:FF,KPN,,
